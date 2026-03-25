@@ -1,0 +1,46 @@
+name: Feature Request
+description: Suggest a new feature or improvement
+title: "[Feature] "
+labels: ["feature-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We'd love to hear your ideas for improving Spades Audio!
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What would you like?
+      description: A clear description of the feature or improvement.
+      placeholder: Describe the feature and why it would be useful.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Related area
+      options:
+        - Per-app volume / mute / balance
+        - Audio routing
+        - Speaker groups
+        - Microphone bridge
+        - Equaliser (EQ)
+        - Play / Pause / Next track
+        - Licensing / Pricing
+        - Settings / Preferences
+        - UI / Design
+        - Localisation
+        - Integration (Siri / Shortcuts / MCP)
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Have you tried any workarounds?
+    validations:
+      required: false

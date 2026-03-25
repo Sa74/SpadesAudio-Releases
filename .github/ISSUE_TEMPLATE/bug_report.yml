@@ -1,0 +1,70 @@
+name: Bug Report
+description: Report a bug in Spades Audio
+title: "[Bug] "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug! Please fill out the sections below to help us investigate.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: A clear description of the bug.
+      placeholder: Describe what you expected and what actually happened.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we reproduce this?
+      placeholder: |
+        1. Open Spades Audio
+        2. Select app X
+        3. Change volume to Y
+        4. Observe Z
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Affected area
+      options:
+        - Per-app volume / mute / balance
+        - Audio routing (multi-device)
+        - Speaker groups
+        - Microphone bridge
+        - Equaliser (EQ)
+        - Play / Pause / Next track
+        - Licensing / Trial
+        - Settings / Preferences
+        - Installer / Uninstaller
+        - UI / Layout
+        - Localisation
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostics
+      description: |
+        Paste diagnostics from **Settings > Copy Diagnostics** (optional but very helpful).
+        This includes your app version, macOS version, and recent logs.
+      render: text
+    validations:
+      required: false
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Attach any relevant screenshots or screen recordings.
+    validations:
+      required: false
