@@ -1,6 +1,6 @@
 <div align="center">
 
-# Spades Audio — Issue Tracker
+# Spades Audio — Releases
 
 **Public issue tracker for [Spades Audio](https://spadesaudio.com)** — per-app audio control for macOS.
 
