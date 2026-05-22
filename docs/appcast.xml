@@ -7,6 +7,22 @@
         <language>en</language>
 
         <item>
+            <title>Spades Audio v0.4.2</title>
+            <link>https://github.com/Sa74/SpadesAudio-Releases/releases/tag/v0.4.2</link>
+            <sparkle:version>106</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <pubDate>Fri, 22 May 2026 16:35:43 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Sa74/SpadesAudio-Releases/releases/download/v0.4.2/SpadesAudio.v0.4.2.dmg"
+                sparkle:edSignature="RiDzeP8urWGVBsPqu3tPiL65Bz4vgxBD01XNpiH4+QU6pNLMX8QNjA8Q1YYiOIVMp/d0YiiXSLtwdh5PJ6L+CA=="
+                length="21866375"
+                type="application/octet-stream"
+                sparkle:installationType="package"
+            />
+        </item>
+
+        <item>
             <title>Spades Audio v0.4.1</title>
             <link>https://github.com/Sa74/SpadesAudio-Releases/releases/tag/v0.4.1</link>
             <sparkle:version>105</sparkle:version>
@@ -18,6 +34,7 @@
                 sparkle:edSignature="qU+TfK6wbnn12sY7OoDeI0auLj57rzVRty+SGiLS+YwoxRtPwBHXBQqHRwH1rUCE+FoSgMFUYivZ917FrT/+Cg=="
                 length="21866133"
                 type="application/octet-stream"
+                sparkle:installationType="package"
             />
         </item>
 
@@ -33,6 +50,7 @@
                 sparkle:edSignature="XhBZDVLj9wt/J0Yxvk7Yj/d0RqBzGmTV/58WhfgZ0U2eQPKj267Quqf8BfrEMumnNvFFPuhp8eSHzD+gJgTWBg=="
                 length="21863574"
                 type="application/octet-stream"
+                sparkle:installationType="package"
             />
         </item>
 
@@ -48,6 +66,7 @@
                 sparkle:edSignature="/fFVgo5slwUy/8jnVFp5dCMKt8Rosnbg47qtVLKK5gj5xpnVBJiOGafoy9RA4osA/I3djYRdnRFiYRudwS0vAA=="
                 length="21610043"
                 type="application/octet-stream"
+                sparkle:installationType="package"
             />
         </item>
 
@@ -63,6 +82,7 @@
                 sparkle:edSignature="ndM5ywYIQ/TL5Re61eJ6N94W8Zzxm4YF2QAzT3xBT+Sj1LLteTaBoriWyCR+GYW5U/YQ/CzADTAzspWTZnTwBw=="
                 length="21590525"
                 type="application/octet-stream"
+                sparkle:installationType="package"
             />
         </item>
 
@@ -78,6 +98,7 @@
                 sparkle:edSignature="CWquImithTd5LgwCGtBxjMfVR1HvKqszwr4IoDAH3hbOqkHc7NeMtl9a0uPRkTjXcnU0n/IHVMJfTxd1XX03Aw=="
                 length="21506245"
                 type="application/octet-stream"
+                sparkle:installationType="package"
             />
         </item>
 
@@ -93,6 +114,7 @@
                 sparkle:edSignature="XkZsjn2TfIWpBI1Tp8LKP0C7/6XJ5YjeS06aiRGWRKJqucQQ2RjqzeDnEUYR7oDvO1lHL/0Pg7roljPXHpc9DA=="
                 length="21511972"
                 type="application/octet-stream"
+                sparkle:installationType="package"
             />
         </item>
     </channel>
