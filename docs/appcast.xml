@@ -7,6 +7,22 @@
         <language>en</language>
 
         <item>
+            <title>Spades Audio v0.4.10</title>
+            <link>https://github.com/Sa74/SpadesAudio-Releases/releases/tag/v0.4.10</link>
+            <sparkle:version>115</sparkle:version>
+            <sparkle:shortVersionString>0.4.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <pubDate>Sat, 30 May 2026 16:41:15 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Sa74/SpadesAudio-Releases/releases/download/v0.4.10/SpadesAudio.v0.4.10.dmg"
+                sparkle:edSignature="pAT6AaCT6p2Jgk8xEq+RgQLgI7nphMHcSkpkyn7yHxAg1SCUDBtEjRTOgHLpN9REBFwzyehZUeE5tj+CGSx0CQ=="
+                length="24053887"
+                type="application/octet-stream"
+                sparkle:installationType="package"
+            />
+        </item>
+
+        <item>
             <title>Spades Audio v0.4.9</title>
             <link>https://github.com/Sa74/SpadesAudio-Releases/releases/tag/v0.4.9</link>
             <sparkle:version>114</sparkle:version>
@@ -49,6 +65,54 @@
                 url="https://github.com/Sa74/SpadesAudio-Releases/releases/download/v0.4.6/SpadesAudio.v0.4.6.dmg"
                 sparkle:edSignature="2QSecYpapvqqlr6ogq+L+3wyWmiVaH8drS/sCmCQqtTfDy+CclureSXQMXs248NEEt9mk24MQ4+Ac0xPItPWBg=="
                 length="24081815"
+                type="application/octet-stream"
+                sparkle:installationType="package"
+            />
+        </item>
+
+        <item>
+            <title>Spades Audio v0.4.5</title>
+            <link>https://github.com/Sa74/SpadesAudio-Releases/releases/tag/v0.4.5</link>
+            <sparkle:version>110</sparkle:version>
+            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <pubDate>Thu, 28 May 2026 23:39:50 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Sa74/SpadesAudio-Releases/releases/download/v0.4.5/SpadesAudio.v0.4.5.dmg"
+                sparkle:edSignature="smq+a3E+5eQ4S2LBSf9lEWwujDw3ELEddIPNRxQWw1pdch/QHhCYFmtSo4PI7R1WGfKbr+Cplp7tK0ZOCSLJDQ=="
+                length="23993361"
+                type="application/octet-stream"
+                sparkle:installationType="package"
+            />
+        </item>
+
+        <item>
+            <title>Spades Audio v0.4.4</title>
+            <link>https://github.com/Sa74/SpadesAudio-Releases/releases/tag/v0.4.4</link>
+            <sparkle:version>109</sparkle:version>
+            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <pubDate>Thu, 28 May 2026 17:15:10 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Sa74/SpadesAudio-Releases/releases/download/v0.4.4/SpadesAudio.v0.4.4.dmg"
+                sparkle:edSignature="K0MyyBJi8cSMuPTxCWO61yZLXbGy7gcMQm5veCFe/HMTf+M3Ef6cW0yDmXb3hljRKomcIqc37wm4rNWpUXEpDA=="
+                length="21921364"
+                type="application/octet-stream"
+                sparkle:installationType="package"
+            />
+        </item>
+
+        <item>
+            <title>Spades Audio v0.4.3</title>
+            <link>https://github.com/Sa74/SpadesAudio-Releases/releases/tag/v0.4.3</link>
+            <sparkle:version>108</sparkle:version>
+            <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <pubDate>Thu, 28 May 2026 07:08:55 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Sa74/SpadesAudio-Releases/releases/download/v0.4.3/SpadesAudio.v0.4.3.dmg"
+                sparkle:edSignature="2jNTTjpy7Xygrb/shxhut56u1pnyD8qKnskzJjT6rpeVPeDJdkXbasRl1ZaOHNPrUhCcm2ZMF0vFc0DPceg5Bw=="
+                length="21918299"
                 type="application/octet-stream"
                 sparkle:installationType="package"
             />
