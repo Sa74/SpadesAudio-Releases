@@ -7,6 +7,22 @@
         <language>en</language>
 
         <item>
+            <title>Spades Audio v0.4.11</title>
+            <link>https://github.com/Sa74/SpadesAudio-Releases/releases/tag/v0.4.11</link>
+            <sparkle:version>116</sparkle:version>
+            <sparkle:shortVersionString>0.4.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 01 Jun 2026 05:36:47 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Sa74/SpadesAudio-Releases/releases/download/v0.4.11/SpadesAudio.v0.4.11.dmg"
+                sparkle:edSignature="PskU13ax3WQUJqisMs4VX0GEfmIPP2P5TYiJ0vYXL5IMEvrZu4HsPOxbB6VevJNXck5UFXwGrZ8C8WCkorbvAA=="
+                length="24114981"
+                type="application/octet-stream"
+                sparkle:installationType="package"
+            />
+        </item>
+
+        <item>
             <title>Spades Audio v0.4.10</title>
             <link>https://github.com/Sa74/SpadesAudio-Releases/releases/tag/v0.4.10</link>
             <sparkle:version>115</sparkle:version>
