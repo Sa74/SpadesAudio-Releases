@@ -7,6 +7,22 @@
         <language>en</language>
 
         <item>
+            <title>Spades Audio v0.7.3</title>
+            <link>https://github.com/Sa74/SpadesAudio-Releases/releases/tag/v0.7.3</link>
+            <sparkle:version>137</sparkle:version>
+            <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 13 Jul 2026 09:13:57 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Sa74/SpadesAudio-Releases/releases/download/v0.7.3/SpadesAudio.v0.7.3.dmg"
+                sparkle:edSignature="65T+wt6XU/k7uk/lTM/P9mCzp1A9RJjUGUdsx50h8I2nD5shO1VnB2fKc5hGrvgiXG3dHnNU7VUulQPkVb1MCw=="
+                length="27464716"
+                type="application/octet-stream"
+                sparkle:installationType="package"
+            />
+        </item>
+
+        <item>
             <title>Spades Audio v0.7.2</title>
             <link>https://github.com/Sa74/SpadesAudio-Releases/releases/tag/v0.7.2</link>
             <sparkle:version>136</sparkle:version>
@@ -241,22 +257,6 @@
                 url="https://github.com/Sa74/SpadesAudio-Releases/releases/download/v0.4.11/SpadesAudio.v0.4.11.dmg"
                 sparkle:edSignature="PskU13ax3WQUJqisMs4VX0GEfmIPP2P5TYiJ0vYXL5IMEvrZu4HsPOxbB6VevJNXck5UFXwGrZ8C8WCkorbvAA=="
                 length="24114981"
-                type="application/octet-stream"
-                sparkle:installationType="package"
-            />
-        </item>
-
-        <item>
-            <title>Spades Audio v0.4.10</title>
-            <link>https://github.com/Sa74/SpadesAudio-Releases/releases/tag/v0.4.10</link>
-            <sparkle:version>115</sparkle:version>
-            <sparkle:shortVersionString>0.4.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <pubDate>Sat, 30 May 2026 16:41:15 +0000</pubDate>
-            <enclosure
-                url="https://github.com/Sa74/SpadesAudio-Releases/releases/download/v0.4.10/SpadesAudio.v0.4.10.dmg"
-                sparkle:edSignature="pAT6AaCT6p2Jgk8xEq+RgQLgI7nphMHcSkpkyn7yHxAg1SCUDBtEjRTOgHLpN9REBFwzyehZUeE5tj+CGSx0CQ=="
-                length="24053887"
                 type="application/octet-stream"
                 sparkle:installationType="package"
             />
