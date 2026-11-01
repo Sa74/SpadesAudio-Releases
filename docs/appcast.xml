@@ -18,6 +18,7 @@
                 sparkle:edSignature="13km5nyXDQJgk2kkwfHVwGcEX7BNK4sGt9+nzyMvrleFNtYTa+vZmdL6MTPcBY7GaiKt7JEMsRs6RsJU3UVvCw=="
                 length="27882850"
                 type="application/octet-stream"
+                sparkle:installationType="application"
             />
         </item>
 
@@ -33,6 +34,7 @@
                 sparkle:edSignature="1oj73DuYPVeOXAR/giPttvLO+6SEX9fvocY2zPT0iuWfkEAKxnJKieG1+Kv/EseCgeqSkbY5jxV1KAVgfS5xDQ=="
                 length="27682869"
                 type="application/octet-stream"
+                sparkle:installationType="application"
             />
         </item>
 
@@ -48,6 +50,7 @@
                 sparkle:edSignature="T/tDw8kuy89cLPWAT35l49InQWS0jcolH6JjRzitz7F6Q/9dnz8eOzoAhbHyQN30DSylV+2OaT/6AT/DTrUECQ=="
                 length="27545471"
                 type="application/octet-stream"
+                sparkle:installationType="application"
             />
         </item>
 
@@ -414,6 +417,22 @@
                 url="https://github.com/Sa74/SpadesAudio-Releases/releases/download/v0.4.10/SpadesAudio.v0.4.10.dmg"
                 sparkle:edSignature="pAT6AaCT6p2Jgk8xEq+RgQLgI7nphMHcSkpkyn7yHxAg1SCUDBtEjRTOgHLpN9REBFwzyehZUeE5tj+CGSx0CQ=="
                 length="24053887"
+                type="application/octet-stream"
+                sparkle:installationType="package"
+            />
+        </item>
+
+        <item>
+            <title>Spades Audio v0.4.9</title>
+            <link>https://github.com/Sa74/SpadesAudio-Releases/releases/tag/v0.4.9</link>
+            <sparkle:version>114</sparkle:version>
+            <sparkle:shortVersionString>0.4.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <pubDate>Sat, 30 May 2026 14:31:56 +0000</pubDate>
+            <enclosure
+                url="https://github.com/Sa74/SpadesAudio-Releases/releases/download/v0.4.9/SpadesAudio.v0.4.9.dmg"
+                sparkle:edSignature="9C2mGC2ojkVAN7FjzqwUp3Lrf24Ogo+Y222eTAWbWBJCBkGKuXhsQQrQwO3G9+56VOtQjjBRXVaK8Ud0X2iqDQ=="
+                length="24089640"
                 type="application/octet-stream"
                 sparkle:installationType="package"
             />
